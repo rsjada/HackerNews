@@ -57,7 +57,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is free to download
 
 ## Acknowledgments
 
@@ -66,6 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, please contact [yourname](mailto:youremail@example.com).
+For any questions or inquiries, please contact [rebhi Aljada](mailto:rebhi_jada@hotmail.com).
 
 Feel free to customize this `README.md` according to your preferences and provide more detailed information if necessary.
