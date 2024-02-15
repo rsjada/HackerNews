@@ -66,6 +66,6 @@ This project is free to download
 
 ## Contact
 
-For any questions or inquiries, please contact [rebhi Aljada](mailto:rebhi_jada@hotmail.com).
+For any questions or inquiries, please contact [Rebhi Aljada](mailto:rebhi_jada@hotmail.com).
 
 Feel free to customize this `README.md` according to your preferences and provide more detailed information if necessary.
